@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color:#E6EE9C;
+  }
+  h1{
+   color: purple;
+    background-color: darkgray;
+    
+  }
+  p{
+    font-family:arial;
+    font-weight:bold;
+  }
+  img{
+    border:10px solid black;
+    padding:10px;
+      border-radius:50px
+  }
